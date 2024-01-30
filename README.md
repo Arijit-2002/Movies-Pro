@@ -1,5 +1,7 @@
 # Movies-Pro
-Live Link-https://movies-pro-frontend.onrender.com/login
+Live App-https://movies-pro-frontend.onrender.com/login
+
+A movie booking MERN stack application.
 
 Screenshots Of App
 
